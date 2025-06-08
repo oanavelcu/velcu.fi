@@ -1,0 +1,47 @@
+---
+date: '2020-03-27'
+excerpt: >-
+  This Tuesday, March the 24th, I took my kids for a bike ride around the
+  neighbourhood.
+slug: >-
+  how-to-invite-more-grateful-thinking-in-our-self-talks-and-conversations-to-cope-with-the-physical-distancing
+title: >-
+  How to invite more grateful thinking in our self-talks and conversations to
+  cope with the social isolation
+---
+
+This Tuesday, March the 24th, I took my kids for a bike ride around the neighbourhood. It was a sunny but windy day in Helsinki. There were 10 meters wind per second. A plastic bag and a magazine were swerved by gusts of wind from the sidewalk to the street and back to the sidewalk.  
+The streets were empty. Every now and then, we would bike past by some pedestrian or another biker. I felt a mix of nostalgia and gratitude. I am the kind of person that I used to feel good seeing people in the streets. When someone would look in my eyes, I used to feel joyful for a transient connection. I used to enjoy hearing voices and seeing clutter in the restaurant on our street. The restaurant was empty that day. On the other hand, I felt grateful that people are staying indoors. 
+Gratitude has been on my mind more than ever. Feeling sincere appreciation of the wonderful people and projects in my life. Deep reverence for life itself. After 14 days of self-isolation, one of the best outcomes is an increased ability to be present in the simple moments of the day, like baking home bread.  
+Have you noticed any changes in your ability to feel grateful since the outbreak of coronavirus? 
+Grateful thinking comes more naturally to some of us. Some others have to make a bit of an effort. In moments of uncertainty, it’s beneficial for all of us **to invite more grateful thoughts in our self-talk and conversations**. Here’s why. According to positive psychology researchers, there are at least three benefits:
+
+1. Gratitude is a skill that can help us become aware of the kindness, help, love, opportunities that come from outside us, from the environment where we live. The more goodness we perceive around, the **higher the sense of physical and psychological safety**.
+2. [Robert Emmons](https://www.amazon.com/Thanks-Practicing-Gratitude-Make-Happier/dp/0547085737), a scientific expert in gratitude, describes gratitude as a **relationship-strengthening emotion** because it helps us see how we are supported and validated by others.
+3. Gratitude makes us more **resilient**. Now when we are in one of the worst times for this generation, every little thought of appreciation of what is, can foster our emotional resilience.
+
+There are 4 levels of depth in grateful thinking. Let’s go through each one of them and see where you find yourself at the moment. 
+**1**. In the same way I felt grateful for my neighbours who self-isolated themselves, maybe you are silently observing the good things that others do for you - family members and friends. More than quietly acknowledging their contribution in your days, in what ways do you show you appreciate them? Like *explicitly thanking them for doing a particular thing for you*? For instance, as we parked our bikes in the bike shed, I thanked my kids for joining me on the trip. I specifically told them that their company warmed my heart. 
+Are you feeling grateful for the positive events that happen for you now? A friend of mine mentioned that after a week in isolation she started to feel good about her time at home, with her family. It dawned upon her that she actually needed a break. Yet, being the empathetic woman that she is, she felt guilty over feeling that staying home was beneficial for her.
+Nobody wanted the coronavirus outbreak. Staying at home started as an imposed action for my friend, who initially felt it as a punishment or as a conspiracy against her plans. If you are like her and you are growing aware of the need to slow down, how about allowing yourself to connect with yourself and your needs. How about giving yourself time to come up with new personal goals? 
+However, in case the physical isolation drives you crazy, in the lowest moments of desperation, could you please remember to ask yourself, *“What is one good thing that someone did for me today?”.*
+Each person brings a hidden gift. Look closer and point out the good things that family and friends do for you. Allow yourself to enjoy the positive things that happen to you as you stay home. This is the first level of gratitude. Do you find yourself here? What other forms of grateful thinking might there be?  
+****2.** Appreciate the good things institutions, communities and societies do for you.**
+During the coronavirus outbreak, we have opportunities to see clearer the interdependencies of the world. Each one of us, in accordance with our professional roles, can affect the quality of life, the wellbeing, the productivity and innovativeness of others. We all must have experienced the tangible impacts of disrupted services. Like never before, I felt how important the toilet paper production was when I went to the supermarket two days in a row only to find an apology poster where the supermarket personnel wrote that they do their best to bring new supplies every night.
+In this web of dependencies, we are like pieces on a chess board. Unlike the classic game, the social game of chess is an agile game of collaboration, where each one of us can change roles and can make unique moves that can help the moves of some other players in the game. The other day I invested in a year long subscription to a poetry magazine. In times of crisis, we may be thinking that we need to keep the expenditures for the strictly necessary needs: food and shelter. And that’s what the artists, poets, writers, need also: food and shelter so that they can keep on creating and feeding our souls. Feeding our souls may be a luxury for some. But for others, it’s a necessity so that we keep on building pockets of energy to cope with the new reality. I thus invested in the poetry magazine as a token of solidarity for the cultural and artistic communities. 
+Today I consider investing in a scientific magazine. These are my moves on the chess board. What kind of moves are you considering to make? What are the business activities, big or small, you care about to support by sharing a tiny bit of your income? 
+If we can’t offer financial support, what other kinds of support could we offer to institutions and communities we care about?
+Let’s think about the medical specialists. In the last few days, this group of professionals have been at the centre of my grateful thinking. The medical doctors, the nurses, the ambulance drivers, the hospital cleaners are exposed to the coronavirus as they are doing their best to take care of the people who were unlucky to get the virus. Do you have friends who have any of these professional roles? 
+In what ways could we surprise these people who are now in the front lines of the battle and thus contribute to their wellbeing? They may be hungry. They may be missing their kids.They may feel discouraged. What can we do for them? Other than staying home?
+If nothing else, how about praying for them or doing loving kindness meditation? May they be well. May they be healthy. May they have strength.
+What is one thing that you’ve recently benefited from society? Observing some good things that institutions and societies do for us. This is the second level of gratitude which may inspire us to take further the ripples of goodness with new acts of kindness of our own. 
+**3.** Accepting that life comes with challenges. Life comes with good and bad moments. Even if it’s hard to accept the bad we’re going through, we can look at the coronavirus disruption as an opportunity to test our integrity and humanity, i.e., controlling our emotions in tense moments; bring in more empathy and compassion to heal others; bring in more creativity in using our skills and competence to contribute to recovery plans and new development projects. The third level of gratitude is about valuing the discovery of the best sides in ourselves when life takes us through thick and thin. What might the fourth level be about?
+**4.** Many of us are likely to experience existential anxiety when we get updated on the coronavirus situation, like the number of victims in Italy, Spain, in the country where we live. When we experience mortality salience, we may see how precious now is. Upon realization of the inevitability of death we may come to terms with the present. The peace may settle when we feel truly lucky to breathe, to love, to suffer, to panic or to hope in this second. This is the fourth level of gratitude when we live in awe of the miracle of life. 
+At what level of grateful thinking do you see yourself? As we advance towards the fourth level, we may be noticing a shift in thinking, from *“The world owes it to me.”* to, *“I owe it to the world.”,* “*I owe it to the world to pay attention to the goodness that there is in it.”*
+I don’t know about you, but upon waking up, I smile to the new day. 
+A new day is a gift.
+A new day is a sign of generosity. 
+A new day is our responsibility to make it worthwhile.  
+Special thanks to the programmers and IT experts who work hard to maintain the internet and the online communication. 
+Special thanks to groups of professionals, like the individuals in logistics, who continue to work so that our economies and societies can function in crisis.
+May you be well. May you be grateful.
