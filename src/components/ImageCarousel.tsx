@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import Image from 'next/image'
 
 interface CarouselImage {
   src: string
@@ -47,10 +48,11 @@ export default function ImageCarousel({ images, autoplayInterval = 3000 }: Image
                 : 'translate-x-full'
             }`}
           >
-            <img
+            <Image
               src={image.src}
               alt={image.alt}
-              className="w-full h-full object-cover object-center"
+              fill
+              className="object-cover object-center"
             />
           </div>
         ))}

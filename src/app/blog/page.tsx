@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import Layout from '@/components/layout/Layout'
 import HeroImage from '@/components/ui/HeroImage'
 import ContentSection from '@/components/ui/ContentSection'
@@ -82,11 +83,13 @@ export default function BlogPage() {
                   {post.heroImage && (
                     <div className="md:w-48 md:flex-shrink-0">
                       <Link href={`/blog/${post.slug}`}>
-                        <img
+                        <Image
                           src={post.heroImage}
                           alt={post.title}
                           className="w-full h-48 md:h-32 object-cover rounded-lg shadow-sm hover:shadow-md transition-shadow"
                           style={{ objectPosition: '50% 0%' }}
+                          width={200}
+                          height={150}
                         />
                       </Link>
                     </div>

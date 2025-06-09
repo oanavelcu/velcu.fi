@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import Layout from '@/components/layout/Layout'
 import HeroImage from '@/components/ui/HeroImage'
 import ContentSection from '@/components/ui/ContentSection'
@@ -35,10 +36,12 @@ export default async function HomePage() {
               </Button>
             </div>
             <div className="mt-8 lg:mt-0 flex justify-center">
-              <img
+              <Image
                 className="w-full max-w-md object-cover rounded-lg shadow-lg"
                 src="/images/2022/10/Velcu_Website_Book_publication_post_31Oct2022-300x169.jpg"
                 alt="How to Develop Your Creative Identity at Work - Book Publication"
+                width={400}
+                height={300}
               />
             </div>
           </div>
@@ -62,7 +65,7 @@ export default async function HomePage() {
             <div className="mb-16 bg-white/80 backdrop-blur-sm rounded-lg p-8">
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Who I am</h3>
               <div className="prose prose-lg max-w-none text-gray-600">
-                <p className="mb-4">Hi, I am Oana Velcu-Laitinen-Laitinen.</p>
+                <p className="mb-4">Hi, I am Oana Velcu-Laitinen.</p>
                 <p>I&rsquo;m a Helsinki based NeuroLeadership Coach. I help individuals – change makers, researchers – and their teams bring their contribution to their environment, by cultivating creative thinking and collaboration skills.</p>
               </div>
             </div>
@@ -125,38 +128,48 @@ export default async function HomePage() {
               {/* First row */}
               <div className="grid grid-cols-2 gap-8 md:grid-cols-5 lg:grid-cols-5 items-center opacity-70 mb-8">
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2016/11/HY-Medicine-logo.png"
                     alt="University of Helsinki Medicine"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2016/11/HY-Pharmacy-logo.png"
                     alt="University of Helsinki Pharmacy"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2019/06/Aalto-EE-logo.png"
                     alt="Aalto Executive Education"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2018/10/Aalto-Ceres.png"
                     alt="Aalto CERES"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2020/08/Screenshot-2020-08-12-at-9.23.54.png"
                     alt="Client Logo"
+                    width={120}
+                    height={48}
                   />
                 </div>
               </div>
@@ -164,38 +177,48 @@ export default async function HomePage() {
               {/* Second row */}
               <div className="grid grid-cols-2 gap-8 md:grid-cols-5 lg:grid-cols-5 items-center opacity-70 mb-8">
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2018/10/Teboil.png"
                     alt="Teboil"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2020/05/logo_en.png"
                     alt="Client Logo"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2020/05/logo2_en.jpg"
                     alt="HUS"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2016/11/Specsavers-logo.png"
                     alt="Specsavers"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2016/11/Luckan-integration-logo.png"
                     alt="Luckan Integration"
+                    width={120}
+                    height={48}
                   />
                 </div>
               </div>
@@ -203,17 +226,21 @@ export default async function HomePage() {
               {/* Third row */}
               <div className="grid grid-cols-2 gap-8 md:grid-cols-5 lg:grid-cols-5 items-center opacity-70">
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2016/11/Helsingfors-Arbis-logo.png"
                     alt="Helsingfors Arbis"
+                    width={120}
+                    height={48}
                   />
                 </div>
                 <div className="flex justify-center">
-                  <img
+                  <Image
                     className="h-12 object-contain"
                     src="/images/2016/11/JCI-Finland-logo.png"
                     alt="JCI Finland"
+                    width={120}
+                    height={48}
                   />
                 </div>
               </div>
@@ -378,6 +405,6 @@ export default async function HomePage() {
 export async function generateMetadata() {
   return {
     title: 'Oana Velcu-Laitinen - Creativity Skills Coach and Trainer',
-    description: 'Hi, I am Oana Velcu-Laitinen-Laitinen, Helsinki Based Creativity Skills Coach and Trainer. I am interested in helping individuals nurture their creative ability and come up with initiatives that bring personal meaning and positive change in their community.',
+    description: 'Hi, I am Oana Velcu-Laitinen, Helsinki Based Creativity Skills Coach and Trainer. I am interested in helping individuals nurture their creative ability and come up with initiatives that bring personal meaning and positive change in their community.',
   }
 }

@@ -1,8 +1,8 @@
 ---
 title: "About me"
 slug: "about"
-description: "Learn about Oana Velcu-Laitinen-Laitinen, Helsinki-based creativity skills coach and trainer with social neuroscience background and academic expertise. Get in touch to start your journey."
-seoTitle: "About & Contact - Social Neuroscience-based Coach Oana Velcu-Laitinen-Laitinen"
+description: "Learn about Oana Velcu-Laitinen, Helsinki-based creativity skills coach and trainer with social neuroscience background and academic expertise. Get in touch to start your journey."
+seoTitle: "About & Contact - Social Neuroscience-based Coach Oana Velcu-Laitinen"
 featured_image: null
 ---
 

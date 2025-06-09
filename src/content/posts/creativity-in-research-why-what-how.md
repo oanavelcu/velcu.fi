@@ -77,6 +77,6 @@ How about counting on creativity to come up with new knowledge to the domain of 
 
 ## Acknowledgments
 
-The course was designed and facilitated by [**Oana Velcu-Laitinen-Laitinen**](http://www.velcu.fi). I'd like to express gratitude to **Chiara Facciotto**, **Vincenzo Cerullo**, **Karina Barreiro** and **Hazem Ibrahim** for supporting and brainstorming on the concepts covered in this course.
+The course was designed and facilitated by [**Oana Velcu-Laitinen**](http://www.velcu.fi). I'd like to express gratitude to **Chiara Facciotto**, **Vincenzo Cerullo**, **Karina Barreiro** and **Hazem Ibrahim** for supporting and brainstorming on the concepts covered in this course.
 
 Special thanks to the [**Doctoral Program in Biomedicine**](https://www.helsinki.fi/en/research/doctoral-education/doctoral-schools-and-programmes/doctoral-school-in-health-sciences/doctoral-programme-in-biomedicine), at the **University of Helsinki**, for believing in the importance of developing the creative potential and sponsoring this course.

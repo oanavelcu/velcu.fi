@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     default: "Oana Velcu-Laitinen - Creativity Skills Coach and Trainer",
     template: "%s | Oana Velcu-Laitinen"
   },
-  description: "Hi, I am Oana Velcu-Laitinen-Laitinen, Helsinki Based Creativity Skills Coach and Trainer. I help individuals nurture their creative ability and come up with initiatives that bring personal meaning and positive change in their community.",
+  description: "Hi, I am Oana Velcu-Laitinen, Helsinki Based Creativity Skills Coach and Trainer. I help individuals nurture their creative ability and come up with initiatives that bring personal meaning and positive change in their community.",
   keywords: ["creativity", "coaching", "leadership", "training", "personal development", "business coaching", "Helsinki"],
   authors: [{ name: "Oana Velcu-Laitinen" }],
   creator: "Oana Velcu-Laitinen",

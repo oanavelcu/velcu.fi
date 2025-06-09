@@ -13,7 +13,7 @@ heroImage: "/images/2016/11/Smocka_Oana_photo.jpeg"
 
 ## Entrepreneurs talk about how it is to be your own boss: "Dare to take risks!"
 
-Oana Velcu-Laitinen-Laitinen is a career coach and started her own coaching company Velcu Coaching, two years ago. Between Autumn 2017 and Spring 2018, she developed and taught the Entrepreneurial Competence module of the course, Introduction to Business. The course was part of the integration program, joint cooperation between [Helsinki Luckan](https://integration.luckan.fi/) and [Arbis](https://www.hel.fi/arbis/sv). At the end of the course, a Shark Tank event was organised where Oana was invited to be one of the sharks.
+Oana Velcu-Laitinen is a career coach and started her own coaching company Velcu Coaching, two years ago. Between Autumn 2017 and Spring 2018, she developed and taught the Entrepreneurial Competence module of the course, Introduction to Business. The course was part of the integration program, joint cooperation between [Helsinki Luckan](https://integration.luckan.fi/) and [Arbis](https://www.hel.fi/arbis/sv). At the end of the course, a Shark Tank event was organised where Oana was invited to be one of the sharks.
 
 "We helped the participants understand how to further develop their business ideas. To understand what the next step is.", Oana says.
 

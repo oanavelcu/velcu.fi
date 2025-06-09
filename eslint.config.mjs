@@ -14,7 +14,6 @@ const eslintConfig = [
   {
     ignores: ["out/**/*", ".next/**/*", "node_modules/**/*"],
     rules: {
-      "@next/next/no-img-element": "off", // Disabled for static export
       "react/no-unescaped-entities": "off", // Allow unescaped entities
     },
   },

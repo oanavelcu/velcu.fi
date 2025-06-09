@@ -1,7 +1,7 @@
 ---
 title: "What the first readers think of this book"
 date: "2022-11-09"
-author: "Oana Velcu-Laitinen-Laitinen"
+author: "Oana Velcu-Laitinen"
 tags: ["testimonials", "book-reviews", "feedback"]
 excerpt: "A collection of testimonials from the first readers of 'How to Develop Your Creative Identity at Work' - see what they think about the book."
 featuredImage: "/images/2022/11/Book_fragment_lhomme_nest_rien.jpeg"

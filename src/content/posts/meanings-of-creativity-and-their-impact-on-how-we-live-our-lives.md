@@ -1,7 +1,7 @@
 ---
 title: "Meanings of Creativity and Their Impact on How We Live Our Lives"
 date: "2022-09-30"
-author: "Oana Velcu-Laitinen-Laitinen"
+author: "Oana Velcu-Laitinen"
 tags: ["creativity", "personal-development", "innovation", "relationships"]
 excerpt: "Creativity, like love, is a word loaded with personal significance. Discover six different ways to manifest your creativity and how they impact how we live our lives."
 featuredImage: "/images/2022/09/Book_Blog_Article_2_creativity_meanings_impact_live_life_30Sept2022.png"

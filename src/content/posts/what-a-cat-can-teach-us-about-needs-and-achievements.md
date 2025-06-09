@@ -1,7 +1,7 @@
 ---
 title: "What a Cat Can Teach Us About Needs and Achievements"
 date: "2022-09-23"
-author: "Oana Velcu-Laitinen-Laitinen"
+author: "Oana Velcu-Laitinen"
 tags: ["self-awareness", "psychology", "creativity"]
 excerpt: "How often do you think 'I know myself. I know what I can do'? A story about my mom's cat reveals insights about self-awareness, needs, and achievements."
 featuredImage: "/images/2022/09/Voini_joben--3--1.jpg"

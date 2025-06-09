@@ -1,7 +1,7 @@
 ---
 title: "It is Now Published"
 date: "2022-07-13"
-author: "Oana Velcu-Laitinen-Laitinen"
+author: "Oana Velcu-Laitinen"
 tags: ["news", "book"]
 excerpt: "I'm excited to announce that my book 'How to Develop Your Creative Identity at Work' was published in October 2022."
 featuredImage: "/images/2022/11/creativeidentity_book_website_November2022.jpg"

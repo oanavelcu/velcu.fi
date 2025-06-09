@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { componentStyles } from '@/styles/design-tokens'
 
 interface HeroImageProps {
@@ -9,10 +10,13 @@ interface HeroImageProps {
 export default function HeroImage({ src, alt, objectPosition }: HeroImageProps) {
   return (
     <div className={componentStyles.heroImage.wrapper}>
-      <img
+      <Image
         className={componentStyles.heroImage.image}
         src={src}
         alt={alt}
+        width={1200}
+        height={800}
+        priority
         style={objectPosition ? { objectPosition } : undefined}
       />
     </div>

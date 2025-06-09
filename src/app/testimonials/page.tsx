@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import Layout from '@/components/layout/Layout'
 import { Metadata } from 'next'
 
@@ -55,11 +56,14 @@ export default function TestimonialsPage() {
       <div>
         {/* Hero Image - Full width */}
         <div className="w-full">
-          <img
+          <Image
             className="w-full h-[70vh] object-cover"
             style={{ objectPosition: '50% 0%' }}
             src="/images/2016/12/DSC_1453webb.jpg"
             alt="Oana Velcu-Laitinen - Testimonials"
+            width={1920}
+            height={1080}
+            priority
           />
         </div>
 
