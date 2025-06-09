@@ -17,16 +17,6 @@ interface Testimonial {
 
 const testimonials: Testimonial[] = [
   {
-    name: "Matias Kupiainen",
-    role: "Composer & Musician",
-    content: "Working with Oana helped me understand the creative process in music composition from a completely new perspective. Her insights into flow and intuition transformed how I approach my work.",
-  },
-  {
-    name: "John Bates",
-    role: "Leadership Communication Coach",
-    content: "Oana's approach to creativity in leadership communication is both practical and profound. Her work on rephrasing as an aspect of creativity has influenced my coaching practice significantly.",
-  },
-  {
     name: "Corporate Training Participant",
     role: "Team Lead",
     company: "Technology Company",
