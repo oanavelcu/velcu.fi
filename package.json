@@ -6,7 +6,11 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "optimize-images": "node scripts/optimize-images.js",
+    "replace-images": "node scripts/replace-with-optimized.js",
+    "restore-images": "node scripts/replace-with-optimized.js restore",
+    "build:optimized": "npm run optimize-images && npm run replace-images && npm run build"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",

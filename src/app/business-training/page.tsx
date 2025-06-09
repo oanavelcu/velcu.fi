@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from '@/components/ui/OptimizedImage'
 import Layout from '@/components/layout/Layout'
 import HeroImage from '@/components/ui/HeroImage'
 import ContentSection from '@/components/ui/ContentSection'
@@ -53,7 +53,7 @@ export default async function BusinessTrainingPage() {
                   Because organisational changes reflect the quality of conversations in teams. Direct and one to one conversations are the engine of change when the feeling of overwhelm is replaced by focus on priorities.
                 </p>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     src="/images/2022/07/Website_Trainings_page_Building_culture_transformational_leadership_July2022-300x169.png"
                     alt="Transformational Leadership Training"
                     className="w-full max-w-md rounded-lg shadow-sm"
@@ -70,7 +70,7 @@ export default async function BusinessTrainingPage() {
                   Because being involved in organisational change means managing tension in work relationships. Self-awareness is like a breath of fresh air.
                 </p>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     src="/images/2022/07/Website_Trainings_page_Building_culture_emotinal_intelligence_July2022-300x169.png"
                     alt="Emotional Intelligence Training"
                     className="w-full max-w-md rounded-lg shadow-sm"
@@ -89,7 +89,7 @@ export default async function BusinessTrainingPage() {
                   Because lack of employee motivation to engage in change will result in overdue projects.
                 </p>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     src="/images/2022/07/Website_Trainings_page_Building_culture_connection_July2022-300x169.png"
                     alt="Connection and Engagement Training"
                     className="w-full max-w-md rounded-lg shadow-sm"
@@ -105,7 +105,7 @@ export default async function BusinessTrainingPage() {
                   Because we get the tendency to get attached to a particular way of thinking and a set of rules. And breakthroughs happen when we break free from the habitual thinking and dare to try out new things.
                 </p>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     src="/images/2022/07/Website_Trainings_page_Building_culture_creative_thinking_July2022-1-300x169.png"
                     alt="Creative Thinking Training"
                     className="w-full max-w-md rounded-lg shadow-sm"
@@ -124,7 +124,7 @@ export default async function BusinessTrainingPage() {
                   In the same way we are interested in brushing our teeth twice a day, we can get interested in taking care of our emotional states.
                 </p>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     src="/images/2022/07/Website_Trainings_page_Building_culture_workwellbeing_July2022-2-300x169.png"
                     alt="Emotional Wellbeing Training"
                     className="w-full max-w-md rounded-lg shadow-sm"

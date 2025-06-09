@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from '@/components/ui/OptimizedImage'
 import Layout from '@/components/layout/Layout'
 import HeroImage from '@/components/ui/HeroImage'
 import ContentSection from '@/components/ui/ContentSection'
@@ -36,7 +36,7 @@ export default async function HomePage() {
               </Button>
             </div>
             <div className="mt-8 lg:mt-0 flex justify-center">
-              <Image
+              <OptimizedImage
                 className="w-full max-w-md object-cover rounded-lg shadow-lg"
                 src="/images/2022/10/Velcu_Website_Book_publication_post_31Oct2022-300x169.jpg"
                 alt="How to Develop Your Creative Identity at Work - Book Publication"
@@ -128,7 +128,7 @@ export default async function HomePage() {
               {/* First row */}
               <div className="grid grid-cols-2 gap-8 md:grid-cols-5 lg:grid-cols-5 items-center opacity-70 mb-8">
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2016/11/HY-Medicine-logo.png"
                     alt="University of Helsinki Medicine"
@@ -137,7 +137,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2016/11/HY-Pharmacy-logo.png"
                     alt="University of Helsinki Pharmacy"
@@ -146,7 +146,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2019/06/Aalto-EE-logo.png"
                     alt="Aalto Executive Education"
@@ -155,7 +155,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2018/10/Aalto-Ceres.png"
                     alt="Aalto CERES"
@@ -164,7 +164,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2020/08/Screenshot-2020-08-12-at-9.23.54.png"
                     alt="Client Logo"
@@ -177,7 +177,7 @@ export default async function HomePage() {
               {/* Second row */}
               <div className="grid grid-cols-2 gap-8 md:grid-cols-5 lg:grid-cols-5 items-center opacity-70 mb-8">
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2018/10/Teboil.png"
                     alt="Teboil"
@@ -186,7 +186,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2020/05/logo_en.png"
                     alt="Client Logo"
@@ -195,7 +195,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2020/05/logo2_en.jpg"
                     alt="HUS"
@@ -204,7 +204,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2016/11/Specsavers-logo.png"
                     alt="Specsavers"
@@ -213,7 +213,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2016/11/Luckan-integration-logo.png"
                     alt="Luckan Integration"
@@ -226,7 +226,7 @@ export default async function HomePage() {
               {/* Third row */}
               <div className="grid grid-cols-2 gap-8 md:grid-cols-5 lg:grid-cols-5 items-center opacity-70">
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2016/11/Helsingfors-Arbis-logo.png"
                     alt="Helsingfors Arbis"
@@ -235,7 +235,7 @@ export default async function HomePage() {
                   />
                 </div>
                 <div className="flex justify-center">
-                  <Image
+                  <OptimizedImage
                     className="h-12 object-contain"
                     src="/images/2016/11/JCI-Finland-logo.png"
                     alt="JCI Finland"

@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from './OptimizedImage'
 import { componentStyles } from '@/styles/design-tokens'
 
 interface HeroImageProps {
@@ -10,7 +10,7 @@ interface HeroImageProps {
 export default function HeroImage({ src, alt, objectPosition }: HeroImageProps) {
   return (
     <div className={componentStyles.heroImage.wrapper}>
-      <Image
+      <OptimizedImage
         className={componentStyles.heroImage.image}
         src={src}
         alt={alt}

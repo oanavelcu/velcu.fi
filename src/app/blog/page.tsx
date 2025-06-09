@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from '@/components/ui/OptimizedImage'
 import Layout from '@/components/layout/Layout'
 import HeroImage from '@/components/ui/HeroImage'
 import ContentSection from '@/components/ui/ContentSection'
@@ -83,7 +83,7 @@ export default function BlogPage() {
                   {post.heroImage && (
                     <div className="md:w-48 md:flex-shrink-0">
                       <Link href={`/blog/${post.slug}`}>
-                        <Image
+                        <OptimizedImage
                           src={post.heroImage}
                           alt={post.title}
                           className="w-full h-48 md:h-32 object-cover rounded-lg shadow-sm hover:shadow-md transition-shadow"

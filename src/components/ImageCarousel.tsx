@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import Image from 'next/image'
+import OptimizedImage from './ui/OptimizedImage'
 
 interface CarouselImage {
   src: string
@@ -48,9 +48,11 @@ export default function ImageCarousel({ images, autoplayInterval = 3000 }: Image
                 : 'translate-x-full'
             }`}
           >
-            <Image
+            <OptimizedImage
               src={image.src}
               alt={image.alt}
+              width={400}
+              height={300}
               fill
               className="object-cover object-center"
             />

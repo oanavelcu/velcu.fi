@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from '@/components/ui/OptimizedImage'
 import Layout from '@/components/layout/Layout'
 import HeroImage from '@/components/ui/HeroImage'
 
@@ -55,7 +55,7 @@ export default async function CareerCoachingPage() {
                 <div className="bg-white rounded-lg p-6 shadow-sm">
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Expert Competence Course</h3>
                   <div className="flex justify-center mb-6">
-                    <Image
+                    <OptimizedImage
                       src="/images/2022/07/Autumn2022_ExpertCompetence_Course_Arbis-212x300.png"
                       alt="Expert Competence Course"
                       className="w-64 h-auto rounded-lg shadow-sm"
@@ -72,7 +72,7 @@ export default async function CareerCoachingPage() {
                 <div className="bg-white rounded-lg p-6 shadow-sm">
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Creative Living Abroad</h3>
                   <div className="flex justify-center mb-6">
-                    <Image
+                    <OptimizedImage
                       src="/images/2022/07/2022_CreativeLivingAbroad_Arbis-212x300.png"
                       alt="Creative Living Abroad Course"
                       className="w-64 h-auto rounded-lg shadow-sm"

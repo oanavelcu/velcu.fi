@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from '@/components/ui/OptimizedImage'
 import Layout from '@/components/layout/Layout'
 import { Metadata } from 'next'
 
@@ -56,7 +56,7 @@ export default function TestimonialsPage() {
       <div>
         {/* Hero Image - Full width */}
         <div className="w-full">
-          <Image
+          <OptimizedImage
             className="w-full h-[70vh] object-cover"
             style={{ objectPosition: '50% 0%' }}
             src="/images/2016/12/DSC_1453webb.jpg"

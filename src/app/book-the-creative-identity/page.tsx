@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from '@/components/ui/OptimizedImage'
 import Layout from '@/components/layout/Layout'
 import HeroImage from '@/components/ui/HeroImage'
 import ContentSection from '@/components/ui/ContentSection'
@@ -37,7 +37,7 @@ export default function BookPage() {
 
               <div className="flex flex-col md:flex-row md:space-x-8 space-y-6 md:space-y-0">
                 <div className="md:w-1/3">
-                  <Image
+                  <OptimizedImage
                     src="/images/hero-book-creative-identity.jpg"
                     alt="Book autograph"
                     className="w-full rounded-lg shadow-md"

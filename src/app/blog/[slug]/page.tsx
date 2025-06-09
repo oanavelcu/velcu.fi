@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import OptimizedImage from '@/components/ui/OptimizedImage'
 import Layout from '@/components/layout/Layout'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
@@ -118,7 +118,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           {/* Hero Image */}
           {post.frontMatter.heroImage && (
             <div className="mb-12">
-              <Image
+              <OptimizedImage
                 src={post.frontMatter.heroImage}
                 alt={post.frontMatter.title}
                 className="w-full h-64 sm:h-80 object-cover object-top rounded-lg shadow-lg"
