@@ -94,16 +94,16 @@ export default async function HomePage() {
                 <p className="mb-4">More than 15 years ago when I conducted research on how ERP systems are implemented in Finnish companies, I could notice an underestimation of the psychology of change both among stakeholders and leadership.</p>
 
                 <div className="my-6 pl-4 border-l-4 border-indigo-200">
-                  <p className="mb-2 italic">&ldquo;How can leaders motivate their team members in the face of uncertainty?&rdquo;</p>
-                  <p className="mb-2 italic">&ldquo;When faced with the unknown or the ambiguous, how can we make better use of our creative thinking to perform the core tasks?&rdquo;</p>
-                  <p className="italic">&ldquo;How can people in expert roles express their concerns when it matters?&rdquo;</p>
+                  <p className="mb-2 italic">&ldquo;How can leaders motivate their teams in the face of change?&rdquo;</p>
+                  <p className="mb-2 italic">&ldquo;How can we make better use of our creative thinking to perform at work?&rdquo;</p>
+                  <p className="italic">&ldquo;How can we become more comfortable taking initiative?&rdquo;</p>
                 </div>
 
                 <p className="mb-4">These were questions which I could not address in my doctoral dissertation. For the following years, this personal curiosity kept nagging me.</p>
 
-                <p className="mb-4">I eventually decided to follow my intuition and disrupt my academic career for a twofold mission. First, to help leaders enable work cultures of engagement and co-creation. Second, to help individuals unleash their creativity in their chosen roles.</p>
+                <p className="mb-4">I eventually decided to take action and create training packages to tackle issues related to leading change. First, to help leaders enable work cultures of engagement and co-creation. Second, to help individuals unleash their creativity in their chosen roles.</p>
 
-                <p className="mb-6">Research in fields of neuroscience, – personal creativity and social interaction – , positive psychology, and organisational psychology became my candy store. As a result, for each client, I design customised training packages – online or face-to-face.</p>
+                <p className="mb-6">The trainings are designed based on research in fields of neuroscience, – personal creativity and social interactions – , positive psychology, and organisational psychology. For each client, I design customised training packages – online or face-to-face.</p>
 
                 <p className="mb-8">Looking forward to working with you!</p>
 
