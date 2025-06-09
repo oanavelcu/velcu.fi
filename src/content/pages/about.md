@@ -8,11 +8,10 @@ featured_image: null
 
 Researcher, author and coach. In my free time, I enjoy writing on my blog on the development of creativity, self-leadership and self-awareness.
 
-My academic experience encompasses research and teaching in [Hanken School of Economics](https://www.hanken.fi/en) and [Aalto School of Business](https://www.aalto.fi/school-of-business).
+My academic experience encompasses research and teaching in [University of Eastern Finland](https://uefconnect.uef.fi/en/oana.velcu-laitinen/), [Aalto School of Business](https://www.aalto.fi/school-of-business) and [Hanken School of Economics](https://www.hanken.fi/en).
 
-In 2014, I got [certified](http://www.worldcoaching.com/) as a coach.
 
-In March 2017, I got my second certification grounded in social neuroscience, by the [NeuroLeadership Institute](https://neuroleadership.fi/) in Helsinki.
+In March 2017, I got my coach certification, based on a methodology in social neuroscience, by the [NeuroLeadership Institute](https://neuroleadership.fi/) in Helsinki.
 
 My appetite for becoming better in my role as a coach and trainer grows with each customer interaction. One of the most valuable rewards is to see the smiles of insight on my clients' faces.
 
